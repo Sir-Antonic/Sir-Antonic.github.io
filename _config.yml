@@ -7,7 +7,7 @@ title:            Antonic
 tagline:          ''
 description:      'Just an average old dad who likes to tinker with old wrestling games.'
 url:              https://fSir-Antonic.github.io
-baseurl:          '/hydeout'
+baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -26,6 +26,10 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+encoding: utf-8
+
+remote_theme: fongandrew/hydeout
 
 # Sidebar link settings
 sidebar_home_link:  true
