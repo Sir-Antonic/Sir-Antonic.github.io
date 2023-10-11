@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Antonic
+tagline:          'A Jekyll theme'
+description:      'Just an average old dad who likes to tinker with old wrestling games.'
+url:              https://sir-antonic.github.io/
+baseurl:          /
+
+author:
+  name:           'Antonic'
+  url:            https://twitter.com/SirAntonic
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
