@@ -1,0 +1,55 @@
+---
+author: Antonic
+pubDatetime: 2024-08-23T13:28:29.689Z
+title: Elevated Spiked Bulldog v02
+slug: elevated-spiked-bulldog-v02
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front grapple
+description: Elevated Spiked Bulldog v02
+---
+<center>
+Replaces: Inverted DDT <p>
+Credit: Antonic
+
+![Big Ending](@assets/images/gifs/elevated-spike-bulldog-v2.gif)
+</center>
+
+```text
+D106B454 37E6
+D106B456 0047
+8106B460 00DC
+D106B454 37E6
+D106B456 0047
+8106B462 8C98
+D106B454 37E6
+D106B456 0059
+8106B460 00A6
+D106B454 37E6
+D106B456 0059
+8106B462 3D36
+D106B514 37E7
+D106B516 0050
+8106B520 00DC
+D106B514 37E7
+D106B516 0050
+8106B522 2990
+D106B454 37E6
+D106B456 004E
+8106B498 C200
+D106B454 37E6
+D106B456 0069
+8106B498 3F80
+D106B514 37E7
+D106B516 0050
+8106B560 C200
+D106B514 37E7
+D106B516 006D
+8106B560 3F80
+813277F4 5200
+813277F6 006A
+813277F8 5200
+813277FA 006E
+```

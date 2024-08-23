@@ -1,0 +1,57 @@
+---
+author: Antonic
+pubDatetime: 2024-08-23T15:57:28.521Z
+title: Standing Jumping Tornado DDT
+slug: standing-jumping-tornado-ddt
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front grapple
+description: Standing Jumping Tornado DDT
+---
+<center>
+Replaces: Impact ddt <p>
+Credit: Antonic
+
+![Big Ending](@assets/images/gifs/standing-jumping-tornado-ddt.gif)
+</center>
+
+```text
+D106B454 37E6
+D106B456 0040
+8106B460 00DC
+D106B454 37E6
+D106B456 0040
+8106B462 26E2
+D106B514 37E7
+D106B516 0040
+8106B520 00DC
+D106B514 37E7
+D106B516 0040
+8106B522 1358
+D106B454 37E6
+D106B456 004C
+8106B460 011A
+D106B454 37E6
+D106B456 004C
+8106B462 22B4
+D106B514 37E7
+D106B516 0042
+8106B520 011A
+D106B514 37E7
+D106B516 0042
+8106B522 3208
+D106B454 37E6
+D106B456 0040
+8106B4A0 C200
+D106B454 37E6
+D106B456 004E
+8106B4A0 4200
+D106B454 37E6
+D106B456 008B
+8106B4A0 3F80
+813277F4 0800
+813277F6 008C
+813277FA 0092
+```

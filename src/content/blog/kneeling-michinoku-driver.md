@@ -1,0 +1,54 @@
+---
+author: Antonic
+pubDatetime: 2024-08-23T15:30:35.540Z
+title: Kneeling Michinoku Driver
+slug: kneeling-michinoku-driver
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front grapple
+description: Kneeling Michinoku Driver
+---
+<center>
+Replaces: Snowplow <p>
+Credit: Antonic
+
+![Big Ending](@assets/images/gifs/kneeling-michinoku-driver.gif)
+</center>
+
+```text
+D106B454 3747
+D106B456 0000
+8106B460 00A8
+D106B454 3747
+D106B456 0000
+8106B462 7784
+D106B514 3748
+D106B516 0000
+8106B520 00A8
+D106B514 3748
+D106B516 0000
+8106B522 8B0E
+D106B454 3747
+D106B456 002C
+8106B460 0092
+D106B454 3747
+D106B456 002C
+8106B462 2D2C
+D106B514 3748
+D106B516 0036
+8106B520 0091
+D106B514 3748
+D106B516 0036
+8106B522 CB18
+D106B454 3747
+D106B456 0038
+8106B460 0091
+D106B454 3747
+D106B456 0038
+8106B462 B6CA
+81327578 0800
+8132757A 0054
+8132757C 5200
+```

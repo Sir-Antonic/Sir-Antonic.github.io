@@ -1,0 +1,49 @@
+---
+author: Antonic
+pubDatetime: 2024-08-23T13:20:47.192Z
+title: Elevated RKO
+slug: elevated-rko
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front grapple
+description: Elevated RKO
+---
+<center>
+Replaces: TKO <p>
+Credit: Antonic
+
+![Big Ending](@assets/images/gifs/elevated-rko.gif)
+</center>
+
+```text
+D106B454 37C1
+D106B456 0044
+8106B460 00E6
+D106B454 37C1
+D106B456 0044
+8106B462 0D96
+D106B514 37C2
+D106B516 0050
+8106B520 00BF
+D106B514 37C2
+D106B516 0050
+8106B522 CADC
+D106B454 37C1
+D106B456 0046
+8106B4A0 4200
+D106B454 37C1
+D106B456 0066
+8106B4A0 3F80
+D106B514 37C2
+D106B516 0050
+8106B560 C280
+D106B514 37C2
+D106B516 006E
+8106B560 3F80
+81327760 5200
+81327762 0066
+81327764 5200
+81327766 006E
+```
