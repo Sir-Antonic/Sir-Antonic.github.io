@@ -14,7 +14,7 @@ description: Deathbuster DDT
 Replaces: Brainbuster DDT <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/deathbuster-ddt.gif)
+![Big Ending](../assets/deathbuster-ddt.gif)
 </center>
 
 ```text

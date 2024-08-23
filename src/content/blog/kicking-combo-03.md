@@ -14,7 +14,7 @@ description: Kicking Combo 03
 Replaces: Kicking Combo 01 <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/kicking-combo-03.gif)
+![Big Ending](../assets/kicking-combo-03.gif)
 </center>
 
 ```text

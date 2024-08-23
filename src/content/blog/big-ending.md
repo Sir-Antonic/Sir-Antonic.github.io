@@ -14,7 +14,7 @@ description: Front Grapple Big Ending
 Replaces: Rikishi Driver <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/big-ending.gif)
+![Big Ending](../assets/big-ending.gif)
 </center>
 
 ```text

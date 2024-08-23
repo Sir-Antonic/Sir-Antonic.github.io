@@ -14,7 +14,7 @@ description: Spiked Fisherman DDT
 Replces: Fisherman DDT <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/spiked-fisherman-ddt.gif)
+![Big Ending](../assets/spiked-fisherman-ddt.gif)
 </center>
 
 ```text

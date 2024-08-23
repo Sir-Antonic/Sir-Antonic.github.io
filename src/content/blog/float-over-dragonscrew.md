@@ -14,7 +14,7 @@ description: Float Over Dragonscrew
 Replaces: Dragon Screw 01 <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/floatover-dragonscrew.gif)
+![Big Ending](../assets/floatover-dragonscrew.gif)
 </center>
 
 ```text

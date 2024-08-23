@@ -14,7 +14,7 @@ description: Screwstone Piledriver
 Replaces: Screwdriver <p>
 Credit: Antonic
 
-![Big Ending](/assets/images/gifs/screwstone-piledriver.gif)
+![Big Ending](../assets/screwstone-piledriver.gif)
 </center>
 
 ```text
