@@ -14,7 +14,7 @@ description: New Piledriver
 Replaces: Piledriver 03 <p>
 Credit: Antonic
 
-![Big Ending](@assets/images/gifs/new-piledriver.gif)
+![Big Ending](/src/assets/images/gifs/new-piledriver.gif)
 </center>
 
 ```text

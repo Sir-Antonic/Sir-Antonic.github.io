@@ -14,7 +14,7 @@ description: Elevated Spiked Bulldog v02
 Replaces: Inverted DDT <p>
 Credit: Antonic
 
-![Big Ending](@assets/images/gifs/elevated-spike-bulldog-v2.gif)
+![Big Ending](/src/assets/images/gifs/elevated-spike-bulldog-v2.gif)
 </center>
 
 ```text

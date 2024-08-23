@@ -14,7 +14,7 @@ description: Mushroom Stomp Hurracanrana
 Replaces: Censor Kick <p>
 Credit: Antonic
 
-![Big Ending](@assets/images/gifs/mushroom-stomp-hurracanrana.gif)
+![Big Ending](/src/assets/images/gifs/mushroom-stomp-hurracanrana.gif)
 </center>
 
 ```text

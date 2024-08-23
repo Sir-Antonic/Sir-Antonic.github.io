@@ -14,7 +14,7 @@ description: Emerald Fushion Suplex
 Replaces: Emerald Fusion <p>
 Credit: Antonic
 
-![Big Ending](@assets/images/gifs/emerald-fushion-suplex.gif)
+![Big Ending](/src/assets/images/gifs/emerald-fushion-suplex.gif)
 </center>
 
 ```text

@@ -14,7 +14,7 @@ description: Front Grapple Reverse Hurricanrana
 Replaces: Fire Thunder Driver <p>
 Credit: Antonic
 
-![Big Ending](@assets/images/gifs/front-grapple-reverse-hurracanrana.gif)
+![Big Ending](/src/assets/images/gifs/front-grapple-reverse-hurracanrana.gif)
 </center>
 
 ```text
