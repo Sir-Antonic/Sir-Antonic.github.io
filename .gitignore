@@ -37,5 +37,4 @@ pnpm-debug.log*
 .prettierrc
 /.vscode
 docker-compose.yml
-/public
 README.md
