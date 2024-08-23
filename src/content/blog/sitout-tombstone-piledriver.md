@@ -14,7 +14,7 @@ description: Sitout Tombstone Piledriver
 Replaces: Power Clothesline <p>
 Credit: Antonic
 
-![Big Ending](../assets/sitout-tombstone-piledriver.gif)
+![Big Ending](/assets/sitout-tombstone-piledriver.gif)
 </center>
 
 ```text

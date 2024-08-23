@@ -14,7 +14,7 @@ description: Elevated RKO
 Replaces: TKO <p>
 Credit: Antonic
 
-![Big Ending](../assets/elevated-rko.gif)
+![Big Ending](/assets/elevated-rko.gif)
 </center>
 
 ```text

@@ -14,7 +14,7 @@ description: Colt 45
 Replaces: Dominator <p>
 Credit: Antonic
 
-![Big Ending](../assets/colt-45.gif)
+![Big Ending](/assets/colt-45.gif)
 </center>
 
 ```text

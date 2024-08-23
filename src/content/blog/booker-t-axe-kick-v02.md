@@ -14,7 +14,7 @@ description: Booker T Axe Kick V.02
 Replaces: Censor Kick <p>
 Credit: Antonic
 
-![Big Ending](../assets/booker-t-axe-kick-v02.gif)
+![Big Ending](/assets/booker-t-axe-kick-v02.gif)
 </center>
 
 ```text

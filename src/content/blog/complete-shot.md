@@ -14,7 +14,7 @@ description: Complete Shot
 Replaces: Downward Spiral <p>
 Credit: Antonic
 
-![Big Ending](../assets/complete-shot.gif)
+![Big Ending](/assets/complete-shot.gif)
 </center>
 
 ```text

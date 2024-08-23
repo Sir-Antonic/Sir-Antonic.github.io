@@ -14,7 +14,7 @@ description: Double Underhook Brainbuster v01
 Replaces: Double Arm DDT <p>
 Credit: Antonic
 
-![Big Ending](../assets/double-underhook-brainbuster.gif)
+![Big Ending](/assets/double-underhook-brainbuster.gif)
 </center>
 
 ```text

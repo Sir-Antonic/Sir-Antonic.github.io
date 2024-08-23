@@ -14,7 +14,7 @@ description: Powerbomb to RKO
 Replaces: Burning Combo <p>
 Credit: Antonic
 
-![Big Ending](../assets/powerbomb-to-rko.gif)
+![Big Ending](/assets/powerbomb-to-rko.gif)
 </center>
 
 ```text

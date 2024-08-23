@@ -14,7 +14,7 @@ description: Released Pedigree
 Replaces: Pedigree <p>
 Credit: Antonic
 
-![Big Ending](../assets/released-pedigree.gif)
+![Big Ending](/assets/released-pedigree.gif)
 </center>
 
 ```text

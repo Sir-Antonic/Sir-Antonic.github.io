@@ -14,7 +14,7 @@ description: Front Handspring Dominator
 Replaces: Dominator <p>
 Credit: Antonic
 
-![Big Ending](../assets/front-handspring-dominator.gif)
+![Big Ending](/assets/front-handspring-dominator.gif)
 </center>
 
 ```text

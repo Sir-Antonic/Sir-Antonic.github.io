@@ -14,7 +14,7 @@ description: Layout DDT
 Replaces: Inverted DDT <p>
 Credit: Antonic
 
-![Big Ending](../assets/layout-ddt.gif)
+![Big Ending](/assets/layout-ddt.gif)
 </center>
 
 ```text

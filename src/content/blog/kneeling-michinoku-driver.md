@@ -14,7 +14,7 @@ description: Kneeling Michinoku Driver
 Replaces: Snowplow <p>
 Credit: Antonic
 
-![Big Ending](../assets/kneeling-michinoku-driver.gif)
+![Big Ending](/assets/kneeling-michinoku-driver.gif)
 </center>
 
 ```text

@@ -14,7 +14,7 @@ description: Moonsault Headscissors
 Replaces: Belly to Back Flip Suplex <p>
 Credit: Antonic
 
-![Big Ending](../assets/moonsault-headscissors.gif)
+![Big Ending](/assets/moonsault-headscissors.gif)
 </center>
 
 ```text

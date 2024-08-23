@@ -14,7 +14,7 @@ description: Tiger Lyger Bomb
 Replaces: Powerbomb Pin 05 <p>
 Credit: Antonic
 
-![Big Ending](../assets/tiger-lyger-bomb.gif)
+![Big Ending](/assets/tiger-lyger-bomb.gif)
 </center>
 
 ```text

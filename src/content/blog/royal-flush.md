@@ -14,7 +14,7 @@ description: Royal Flush
 Replaces: Fireman's Carry to Pancake <p>
 Credit: Antonic
 
-![Big Ending](../assets/royal-flush.gif)
+![Big Ending](/assets/royal-flush.gif)
 </center>
 
 ```text
