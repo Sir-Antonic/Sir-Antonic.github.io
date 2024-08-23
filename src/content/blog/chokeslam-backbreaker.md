@@ -14,7 +14,7 @@ description: Chokeslam Backbreaker
 Replaces: Chokeslam To Hell <p>
 Credit: Antonic
 
-![Big Ending](/src/assets/images/gifs/chokeslam-backbreaker.gif)
+![Big Ending](/assets/images/gifs/chokeslam-backbreaker.gif)
 </center>
 
 ```text

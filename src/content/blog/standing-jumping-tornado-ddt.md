@@ -14,7 +14,7 @@ description: Standing Jumping Tornado DDT
 Replaces: Impact ddt <p>
 Credit: Antonic
 
-![Big Ending](/src/assets/images/gifs/standing-jumping-tornado-ddt.gif)
+![Big Ending](/assets/images/gifs/standing-jumping-tornado-ddt.gif)
 </center>
 
 ```text

@@ -14,7 +14,7 @@ description: Spiked Double Arm DDT
 Replaces: Double Arm DDT <p>
 Credit: Antonic
 
-![Big Ending](/src/assets/images/gifs/spiked-double-arm-ddt.gif)
+![Big Ending](/assets/images/gifs/spiked-double-arm-ddt.gif)
 </center>
 
 ```text

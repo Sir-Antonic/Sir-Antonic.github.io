@@ -14,7 +14,7 @@ description: Front Grapple Mandara Hineri
 Replaces: Dragon Screw 02 <p>
 Credit: Antonic
 
-![Big Ending](/src/assets/images/gifs/front-grapple-mandara-hineri.gif)
+![Big Ending](/assets/images/gifs/front-grapple-mandara-hineri.gif)
 </center>
 
 ```text
