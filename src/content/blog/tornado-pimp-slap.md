@@ -14,7 +14,7 @@ description: Tornado Pimp Slap
 Replaces: Strong Lariat <p>
 Credit: Antonic
 
-![Tornado Pimp Slap](/src/assets/tornado-pimp-slap.gif)
+![Tornado Pimp Slap](/assets/tornado-pimp-slap.gif)
 </center>
 
 ```text
