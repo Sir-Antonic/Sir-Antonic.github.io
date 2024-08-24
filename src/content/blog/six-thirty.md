@@ -1,7 +1,7 @@
 ---
 author: Antonic
 pubDatetime: 2024-08-24T16:17:00.158Z
-title: Six Thirty (630)
+title: Six Thirty
 slug: six-thirty
 featured: false
 draft: false
