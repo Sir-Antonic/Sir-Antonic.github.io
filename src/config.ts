@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://Sir-Antonic.github.io", // replace this with your deployed domain
   author: "Antonic",
   profile: "https://Sir-Antonic.github.io",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "A website to host all of my previous and future move hacks & animations.",
   title: "Antonic",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
