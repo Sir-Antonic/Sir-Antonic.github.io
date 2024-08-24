@@ -1,0 +1,53 @@
+---
+author: Antonic
+pubDatetime: 2024-08-24T02:32:12.091Z
+title: Full Nelson Backbreaker
+slug: full-nelson-backbreaker
+featured: false
+draft: false
+tags:
+  - move hacks
+  - back grapple
+description: Full Nelson Backbreaker
+---
+<center>
+Replaces: Full Nelson Slam <p>
+Credit: Antonic
+
+![Front Flipping RKO](/assets/full-nelson-backbreaker.gif)
+</center>
+
+```text
+D106B454 3880
+D106B456 0026
+8106B460 00C6
+D106B454 3880
+D106B456 0026
+8106B462 F50C
+D106B514 3881
+D106B516 002C
+8106B520 00C9
+D106B514 3881
+D106B516 002C
+8106B522 7CB4
+D106B514 3881
+D106B516 0034
+8106B520 00C7
+D106B514 3881
+D106B516 0034
+8106B522 033A
+D106B454 3880
+D106B456 0026
+8106B498 4200
+D106B454 3880
+D106B456 004C
+8106B498 3F80
+D106B514 3881
+D106B516 0034
+8106B558 4200
+D106B514 3881
+D106B516 0057
+8106B558 3F80
+81327A60 7300
+81327A62 0057
+```

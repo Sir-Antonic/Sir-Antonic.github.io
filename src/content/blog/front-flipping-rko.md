@@ -1,0 +1,49 @@
+---
+author: Antonic
+pubDatetime: 2024-08-24T02:30:15.546Z
+title: Front Flipping RKO
+slug: front-flipping-rko
+featured: false
+draft: false
+tags:
+  - move hacks
+  - back grapple
+description: Front Flipping RKO
+---
+<center>
+Replaces: Rev DDT 02 <p>
+Credit: Antonic
+
+![Front Flipping RKO](/assets/front-flipping-rko.gif)
+</center>
+
+```text
+D106B454 3890
+D106B456 0014
+8106B460 00C7
+D106B454 3890
+D106B456 0014
+8106B462 48FA
+D106B454 3890
+D106B456 0017
+8106B460 0097
+D106B454 3890
+D106B456 0017
+8106B462 B40E
+D106B514 3891
+D106B516 001E
+8106B520 00D3
+D106B514 3891
+D106B516 001E
+8106B522 BC4C
+D106B514 3891
+D106B516 002A
+8106B520 00CA
+D106B514 3891
+D106B516 002A
+8106B522 D76E
+81327A9C 5000
+81327A9E 0040
+81327AA0 51D0
+81327AA2 0056
+```
