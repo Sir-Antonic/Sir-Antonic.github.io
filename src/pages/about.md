@@ -13,5 +13,5 @@ On this site, you’ll discover a bunch of Move Hacks and Animations, from minor
 all aimed at making your gameplay more exciting and unique. There’s definitely something here for every fan!
 
 <div>
-  <img src="/assets/images/gifs/1.gif" class="sm:w-1/2 mx-auto" alt="animation">
+  <img src="/assets/1.gif" class="sm:w-1/2 mx-auto" alt="animation">
 </div>
