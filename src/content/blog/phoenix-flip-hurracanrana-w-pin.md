@@ -1,0 +1,55 @@
+---
+author: Antonic
+pubDatetime: 2024-08-24T16:00:41.825Z
+title: Phoenix Flip Hurracanrana with Pin
+slug: phoenix-flip-hurracanrana-w-pin
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front turnbuckle grapple
+description: Phoenix Flip Hurracanrana with Pin
+---
+<center>
+Replaces: Dragon Rana <p>
+Credit: Antonic
+
+![Front Flipping RKO](/assets/phoenix-flip-hurracanrana-w-pin.gif)
+</center>
+
+```text
+D106B454 3D46
+D106B456 0018
+8106B460 006F
+D106B454 3D46
+D106B456 0018
+8106B462 C5F0
+D106B454 3D46
+D106B456 002F
+8106B460 00F4
+D106B454 3D46
+D106B456 002F
+8106B462 AB48
+D106B454 3D46
+D106B456 0045
+8106B460 0116
+D106B454 3D46
+D106B456 0045
+8106B462 45F8
+D106B454 3D46
+D106B456 005E
+8106B460 00F5
+D106B454 3D46
+D106B456 005E
+8106B462 7DF4
+D106B514 3D47
+D106B516 005E
+8106B520 00F5
+D106B514 3D47
+D106B516 005E
+8106B522 98C4
+D106B454 3D46
+81052924 FFFF
+D106B454 3D46
+81052926 FFFF
+```
