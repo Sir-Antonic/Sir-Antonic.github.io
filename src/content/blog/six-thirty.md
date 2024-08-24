@@ -8,7 +8,7 @@ draft: false
 tags:
   - move hacks
   - flying attack
-description: 630
+description: Six Thirty
 ---
 <center>
 Replaces: Swanton Bomb <p>
