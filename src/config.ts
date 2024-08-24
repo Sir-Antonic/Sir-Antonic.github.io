@@ -8,7 +8,7 @@ export const SITE: Site = {
   title: "Antonic",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
+  postPerIndex: 5,
   postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
