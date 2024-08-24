@@ -1,0 +1,49 @@
+---
+author: Antonic
+pubDatetime: 2024-08-24T03:13:18.146Z
+title: Crucifix Bomb
+slug: crucifix-bomb
+featured: false
+draft: false
+tags:
+  - move hacks
+  - running back grapple
+description: Crucifix Bomb
+---
+<center>
+Replaces: Release German Suplex <p>
+Credit: Antonic
+
+![Front Flipping RKO](/assets/crucifix-bomb.gif)
+</center>
+
+```text
+D106B454 418C
+D106B456 0000
+8106B460 0119
+D106B454 418C
+D106B456 0000
+8106B462 E0C8
+D106B514 418D
+D106B516 0000
+8106B520 00CD
+D106B514 418D
+D106B516 0000
+8106B522 67B6
+D106B514 418D
+D106B516 0016
+8106B520 00C8
+D106B514 418D
+D106B516 0016
+8106B522 4B4A
+D106B454 418C
+D106B456 0010
+8106B4A0 4200
+D106B454 418C
+D106B456 0040
+8106B4A0 BF80
+81329E8C 0A00
+81329E8E 0042
+81329E90 5400
+81329E92 0040
+```
