@@ -1,0 +1,57 @@
+---
+author: Antonic
+pubDatetime: 2024-08-27T20:32:06.620Z
+title: Double Underhook Piledriver
+slug: double-underhook-piledriver
+featured: false
+draft: false
+tags:
+  - move hacks
+  - front grapple
+description: Double Underhook Piledriver
+---
+<center>
+Replaces: Pedigree <p>
+Credit: Antonic
+
+![Double Underhook Piledriver](/assets/double-underhook-piledriver.gif)
+</center>
+
+```text
+D106B454 37FC
+D106B456 002E
+8106B460 00B2
+D106B454 37FC
+D106B456 002E
+8106B462 95E6
+D106B514 37FD
+D106B516 002E
+8106B520 00B2
+D106B514 37FD
+D106B516 002E
+8106B522 A6C2
+D106B454 37FC
+D106B456 0048
+8106B460 00A2
+D106B454 37FC
+D106B456 0048
+8106B462 731A
+D106B514 37FD
+D106B516 0058
+8106B520 00BB
+D106B514 37FD
+D106B516 0058
+8106B522 D64A
+D106B454 37FC
+D106B456 0058
+8106B460 00A0
+D106B454 37FC
+D106B456 0058
+8106B462 0E4E
+D106B454 37FC
+D106B456 0065
+8132784C 5000
+8132784E 006C
+81327850 5200
+81327852 0074
+```
