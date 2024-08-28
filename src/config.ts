@@ -147,6 +147,12 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Mastodon`,
     active: false,
   },
+  {
+    name: "Patreon",
+    href: "https://www.patreon.com/Antonic",
+    linkTitle: `${SITE.title} on Patreon`,
+    active: true,
+  },
 ];
 export const GISCUS: GiscusProps = {
   repo: "https://github.com/Sir-Antonic/Sir-Antonic.github.io",
