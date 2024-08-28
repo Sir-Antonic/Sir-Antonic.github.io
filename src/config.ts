@@ -1,4 +1,5 @@
 import type { Site, SocialObjects } from "./types";
+import type { GiscusProps } from "@giscus/react";
 
 export const SITE: Site = {
   website: "https://Sir-Antonic.github.io", // replace this with your deployed domain
@@ -147,3 +148,15 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
 ];
+export const GISCUS: GiscusProps = {
+  repo: "https://github.com/Sir-Antonic/Sir-Antonic.github.io",
+  repoId: "R_kgDOMnakTQ",
+  category: "General",
+  categoryId: "DIC_kwDOMnakTc4CiAg7",
+  mapping: "pathname",
+  reactionsEnabled: "1",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
+};
