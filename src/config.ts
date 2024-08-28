@@ -155,11 +155,11 @@ export const SOCIALS: SocialObjects = [
   },
 ];
 export const GISCUS: GiscusProps = {
-  repo: "https://github.com/Sir-Antonic/Sir-Antonic.github.io",
+  repo: "Sir-Antonic/Sir-Antonic.github.io",
   repoId: "R_kgDOMnakTQ",
-  category: "General",
-  categoryId: "DIC_kwDOMnakTc4CiAg7",
-  mapping: "pathname",
+  category: "Blog Post Comments",
+  categoryId: "DIC_kwDOMnakTc4CiApE",
+  mapping: "url",
   reactionsEnabled: "1",
   emitMetadata: "0",
   inputPosition: "bottom",
