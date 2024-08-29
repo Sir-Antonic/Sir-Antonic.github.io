@@ -2,7 +2,7 @@
 author: Antonic
 pubDatetime: 2024-08-24T16:15:43.955Z
 title: Shooting Star Press Double Knee Drop
-slug: 4shooting-star-press-double-knee-drop
+slug: shooting-star-press-double-knee-drop
 featured: false
 draft: false
 tags:
