@@ -57,6 +57,17 @@ const structuredData = {
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
+
+    <!-- Google Analytics (gtag.js) -->
+     <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-PR1LD7PTS0"></script>
+     <script type="text/partytown">
+     window.dataLayer = window.dataLayer || [];
+     // eslint-disable-next-line prefer-rest-params
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+     gtag('config', 'G-PR1LD7PTS0');
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -132,6 +143,8 @@ const structuredData = {
     <ViewTransitions />
 
     <script is:inline src="/toggle-theme.js"></script>
+
+    
   </head>
   <body>
     <slot />
